@@ -30,4 +30,4 @@ Add screenshot here after running the app locally or deploying.
 
 ## Deployment Note
 
-Deploy on Vercel by importing this project, adding `VITE_GEMINI_API_KEY` and `VITE_GEMINI_MODEL` in the Vercel environment variables, and using the default Vite build settings.
+Live link is - https://medivoice-iota.vercel.app/
